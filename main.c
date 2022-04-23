@@ -9,3 +9,7 @@ main ()
   printf ("%d", d);
   return 0;
 }
+/*Output:
+6 9
+93 
+*/
